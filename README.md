@@ -17,12 +17,27 @@ Here are the steps involved in this project:
 
 Here are some of the findings from the analysis:
 
-1. Which country produces the highest number of movies?
-Ans. USA (2906 movies).
+1. The amount of films produced in a specific country.
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
 </p>
 
 
-2. 
+2. The highest number of movies produced is from the Top 10 countries.
+
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/TOP%201O%20COUNTRY.png">
+</p>
+
+3. Top 5 movie genres with the highest budget:
+
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
+</p>
+
+4. The Dashboard:
+
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
+</p>
