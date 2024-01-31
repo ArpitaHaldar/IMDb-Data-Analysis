@@ -21,7 +21,7 @@ Here are some of the findings from the analysis:
 Ans. USA (2906 movies).
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
+  <img width="600" height="400" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
 </p>
 
 
