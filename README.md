@@ -20,7 +20,7 @@ Here are some of the findings from the analysis:
 1. The amount of films produced in a specific country.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
 </p>
 
 
@@ -39,7 +39,7 @@ Here are some of the findings from the analysis:
 4. The Dashboard:
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
+  <img width="600" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
 </p>
 
 
