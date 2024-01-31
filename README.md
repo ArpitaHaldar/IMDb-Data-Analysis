@@ -27,17 +27,17 @@ Here are some of the findings from the analysis:
 2. The highest number of movies produced is from the Top 10 countries.
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/TOP%201O%20COUNTRY.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/TOP%201O%20COUNTRY.png">
 </p>
 
 3. Top 5 movie genres with the highest budget:
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
 </p>
 
 4. The Dashboard:
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
+  <img width="800" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
 </p>
