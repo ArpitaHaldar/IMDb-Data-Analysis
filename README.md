@@ -39,7 +39,7 @@ Here are some of the findings from the analysis:
 4. The Dashboard:
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
+  <img width="800" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
 </p>
 
 
