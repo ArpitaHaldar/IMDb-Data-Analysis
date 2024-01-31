@@ -41,3 +41,15 @@ Here are some of the findings from the analysis:
 <p align="center">
   <img width="800" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
 </p>
+
+
+Conclusion :
+
+The IMDb Data Analysis Project provides actionable insights for the film industry. It reveals trends in ratings, popular genres, and successful director-actor collaborations. The analysis also explores factors influencing box office performance and critical acclaim, offering a comprehensive view of the cinematic landscape. The intersection of data analytics and cinema proves to be a powerful tool for decision-makers, guiding future endeavors and enhancing the overall cinematic experience for audiences.
+
+
+## Created By
+
+- [@ArpitaHaldar](https://github.com/ArpitaHaldar)
+- Arpita Haldar - Data Analyst
+
