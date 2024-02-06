@@ -14,8 +14,10 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 4. Explotory Data Analyzing,
 5. Data Visualization with Dasbhoard & Insights.
 
+## Important answers were provided by this project to questions such as:
 
-
+1. Which countries have the most titles in the top 10?
+2. 
 
 Here are some of the findings from the analysis:
 
