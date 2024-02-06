@@ -16,12 +16,16 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 
 ## Important answers were provided by this project to questions such as:
 
-1. Which countries have the most titles in the top 10?
-2. 
+1. Which are the top 10 countries that produce movies?
+2. What are the top 5 budget movie genres?
+3. What are the top 5 profitabel movies?
+4. Which country had the lowest IMDb scores?
+5. What is the total number of movies in both color and black and white?
+6. What are the top 10 languages for movie production?
 
-Here are some of the findings from the analysis:
+## These are some of the findings that came out of the analysis:
 
-1. The amount of films produced in a specific country.
+1. The top 10 countries that produce movies.
 
 <p align="center">
   <img width="500" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
