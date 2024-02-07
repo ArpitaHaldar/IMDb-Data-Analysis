@@ -34,31 +34,31 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 
 2. The top 5 budgets for movie genres:
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
 </p>
 
 3. The top 5 profitable movies:
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/Top%205%20Profitabel%20Movies.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/Top%205%20Profitabel%20Movies.png">
 </p>
 
 4. Countries that have the lowest IMDb scores:
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20score.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20score.png">
 </p>
 
 5. Movies are available in both color and black and white:
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/ColorB%26W.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/ColorB%26W.png">
 </p>
 
 6. The top 10 languages used in movie production:
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/Top%2010%20language.png">
+  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/Top%2010%20language.png">
 </p>
 
 ## Conclusion :
