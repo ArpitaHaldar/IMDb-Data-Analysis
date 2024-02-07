@@ -17,9 +17,9 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 ## Important answers were provided by this project to questions such as:
 
 1. Which are the top 10 countries that produce movies?
-2. What are the top 5 budget movie genres?
-3. What are the top 5 profitabel movies?
-4. Which country had the lowest IMDb scores?
+2. What are the top 5 budgets for movie genres?
+3.What are the top 5 profitable movies?
+4. Which countries had the lowest IMDb scores?
 5. What is the total number of movies in both color and black and white?
 6. What are the top 10 languages for movie production?
 
@@ -28,26 +28,25 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 1. The top 10 countries that produce movies.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/FILIMS.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/TOP%201O%20COUNTRY.png">
 </p>
 
 
-2. The highest number of movies produced is from the Top 10 countries.
-
+2. The top 5 budgets for movie genres.
 <p align="center">
-  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/TOP%201O%20COUNTRY.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
 </p>
 
-3. Top 5 movie genres with the highest budget:
+3. The top 5 profitable movies:
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/top%205%20budget.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/Top%205%20Profitabel%20Movies.png">
 </p>
 
-4. The Dashboard:
+4. Countries that have the lowest IMDb scores:
 
 <p align="center">
-  <img width="800" height="250" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20DASHBOARD.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/IMDb-Data-Analysis/blob/main/GRAPHS/IMDb%20score.png">
 </p>
 
 
