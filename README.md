@@ -18,7 +18,7 @@ The IMDb Data Analysis Project is a comprehensive exploration of the vast datase
 
 1. Which are the top 10 countries that produce movies?
 2. What are the top 5 budgets for movie genres?
-3.What are the top 5 profitable movies?
+3. What are the top 5 profitable movies?
 4. Which countries had the lowest IMDb scores?
 5. What is the total number of movies in both color and black and white?
 6. What are the top 10 languages used in movie production?
